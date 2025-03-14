@@ -1,5 +1,3 @@
-
-
 #   Autori
 
 import sys
@@ -117,7 +115,3 @@ def vanskeligheter():
         print("impossible")
 
 vanskeligheter()
-
-
-
-    
