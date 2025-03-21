@@ -48,18 +48,6 @@ baltic()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #   Nature Reserve
 import sys
 import heapq
